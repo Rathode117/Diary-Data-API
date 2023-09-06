@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mayand",
+      "email": "srmayandrathode@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": 2,
+      "name": "Mayank",
+      "email": "mayankrathode01@gmail.com",
+      "password": "87654321"
+    },
+    {
+      "name": "Priyanshu",
+      "email": "priyanshu123@gmail.com",
+      "password": "123",
+      "id": 3
+    }
+  ],
+  "poems": [
+    {
+      "id": 1,
+      "diarydata": "LzUc5w9B02hOTO0dfFRjbHQKvg1d6cf3HbeUmtU9VbbV3qzZ2Teh97WQ",
+      "date": "2023-09-05",
+      "email": "srmayandrathode@gmail.com",
+      "fname": "happy"
+    },
+    {
+      "id": 2,
+      "diarydata": "LzUc5w9B02hOTO0dfFRjbHQKvg1d6cf3HbeUmtU9VbbV3qzZ2Teh97WQ",
+      "date": "2023-09-05",
+      "email": "mayankrathode01@gmail.com",
+      "fname": "happy"
+    },
+    {
+      "email": "srmayandrathode@gmail.com",
+      "fname": "Great",
+      "date": "2023-09-06",
+      "diarydata": "The App works Fine.",
+      "id": 3
+    },
+    {
+      "email": "mayankrathode01@gmail.com",
+      "fname": "cool",
+      "date": "2023-09-06",
+      "diarydata": "abcd",
+      "id": 4
+    },
+    {
+      "email": "srmayandrathode@gmail.com",
+      "fname": "kjnsoid",
+      "date": "2023-09-06",
+      "diarydata": "aksnfoias; S;docina;sd'sv 's",
+      "id": 5
+    },
+    {
+      "email": "priyanshu123@gmail.com",
+      "fname": "sdkjfs",
+      "date": "2023-09-06",
+      "diarydata": "sdkjvn;zd ;lsdv ;ld v vodivh",
+      "id": 6
+    }
+  ]
+}
